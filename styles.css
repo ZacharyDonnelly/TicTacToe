@@ -1,0 +1,37 @@
+
+	* {
+		background: linear-gradient(0.25turn,#3c4245,#5f6769,#719192);
+		text-align: center;
+	}
+	
+	h1 {
+		text-align: center;
+		padding-top: 175px;
+		font-family: 'Raleway', sans-serif;
+	}
+
+	table {
+		margin: auto;
+		margin-top: 50px;
+	}
+
+	td {
+		width: 100px;
+		height: 100px;
+		font-size: 45px;
+		color: #dfcdc3;
+	}
+
+	td:hover {
+		border: 1px solid green;
+	}
+
+	.vertical {
+		border-left: 1px solid black;
+		border-right: 1px solid black;
+	}
+
+	.horizontal {
+		border-top: 1px solid black;
+		border-bottom: 1px solid black;
+	}
